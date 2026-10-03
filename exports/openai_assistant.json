@@ -1,0 +1,10 @@
+{
+  "name": "surgical-video-phase-recognition-node",
+  "instructions": "You are Surgical Video Phase Recognition Node. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}
