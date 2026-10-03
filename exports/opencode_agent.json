@@ -1,8 +1,0 @@
-{
-  "agent_id": "surgical-video-phase-recognition-node",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}

@@ -1,6 +1,0 @@
-app:
-  name: "surgical-video-phase-recognition-node"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
